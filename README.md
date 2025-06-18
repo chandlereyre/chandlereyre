@@ -6,10 +6,6 @@ Skills:
 - Testing: Selenium/Selenide/Cucumber
 - Creative: UI/UX, Blender 3D, Zbrush, Davinci Resolve
 
-![LinkedIn]
-
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-
 <!--
 **chandlereyre/chandlereyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
