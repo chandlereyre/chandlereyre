@@ -1,4 +1,14 @@
-## Hi there 👋
+# Hi there 👋
+I'm a computer science student at the University of Utah, with an interest in art and design as it comes to computing. I don't want to just write code; I want to design beautiful systems. 
+Skills:
+- Front-End Development: JavaScript, HTML, CSS, SCSS, React, Angular
+- Back-End Development: Java, Python, MongoDB, SQL
+- Testing: Selenium/Selenide/Cucumber
+- Creative: UI/UX, Blender 3D, Zbrush, Davinci Resolve
+
+![LinkedIn]
+
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 <!--
 **chandlereyre/chandlereyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
