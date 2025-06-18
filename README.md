@@ -5,5 +5,3 @@ Some of my skills:
 - Back-End Development: Java, C++, C#, Python, MongoDB, SQL
 - Testing: Selenium/Selenide/Cucumber, BDD
 - Creative: UI/UX, Blender, Zbrush, Davinci Resolve
-
-[![Chandler's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandlereyre)](https://github.com/anuraghazra/github-readme-stats)
