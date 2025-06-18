@@ -1,10 +1,10 @@
 # Hi there 👋
-I'm a computer science student at the University of Utah, with an interest in art and design as it comes to computing. I don't want to just write code; I want to design beautiful systems. 
-Skills:
+I'm a computer science student at the University of Utah, with an interest in art and design as it comes to computing. I don't want to just write code; I want to design beautiful systems. \n <br>
+Some of my skills:
 - Front-End Development: JavaScript, HTML, CSS, SCSS, React, Angular
-- Back-End Development: Java, Python, MongoDB, SQL
-- Testing: Selenium/Selenide/Cucumber
-- Creative: UI/UX, Blender 3D, Zbrush, Davinci Resolve
+- Back-End Development: Java, C++, C#, Python, MongoDB, SQL
+- Testing: Selenium/Selenide/Cucumber, BDD
+- Creative: UI/UX, Blender, Zbrush, Davinci Resolve
 
 <!--
 **chandlereyre/chandlereyre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
